@@ -96,5 +96,3 @@ Developed an **interactive Power BI dashboard** that:
 * Enhanced overall system efficiency
 
 
-**Your Name**
-
